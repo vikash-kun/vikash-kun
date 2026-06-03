@@ -13,3 +13,10 @@ I contribute to open source because I genuinely enjoy the culture of building in
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+Badges ~
+
+![SQL] https://www.codedex.io/images/badges/sql/queries.png
+![python] https://www.codedex.io/images/badges/goldenCourseBadges/python.png
+![command-line] https://www.codedex.io/images/badges/goldenCourseBadges/command-line.png
+![Git-&-GitHub] https://www.codedex.io/images/badges/goldenCourseBadges/github.png
