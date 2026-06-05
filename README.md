@@ -13,3 +13,12 @@ Who is vikash-kun?
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+
+## A collection of my Codédex achievements.
+
+## 🏅 Badges
+
+![Python](https://www.codedex.io/images/badges/goldenCourseBadges/python.png)
+![SQL](https://www.codedex.io/images/badges/goldenCourseBadges/sql.png)
+![GitHub](https://www.codedex.io/images/badges/goldenCourseBadges/github.png)
+![Command Line](https://www.codedex.io/images/badges/goldenCourseBadges/command-line.png)
