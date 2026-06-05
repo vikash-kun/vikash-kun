@@ -19,6 +19,12 @@ Who is vikash-kun?
 ## 🏅 Badges
 
 ![Python](https://www.codedex.io/images/badges/goldenCourseBadges/python.png)
+
+
 ![SQL](https://www.codedex.io/images/badges/goldenCourseBadges/sql.png)
+
+
 ![GitHub](https://www.codedex.io/images/badges/goldenCourseBadges/github.png)
+
+
 ![Command Line](https://www.codedex.io/images/badges/goldenCourseBadges/command-line.png)
