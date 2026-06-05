@@ -28,3 +28,6 @@ Who is vikash-kun?
 
 
 ![Command Line](https://www.codedex.io/images/badges/goldenCourseBadges/command-line.png)
+
+
+![Html5](https://www.codedex.io/images/badges/goldenCourseBadges/html.png)
