@@ -1,16 +1,60 @@
-##  YO there
+# YO👋, I'm Vikash
 
-Who is vikash-kun?
- A programmer drawn to how things work at the core systems, logic, and code built to last. I work in C, Python, and the web, comfortable on Linux, at home in the terminal, and currently getting deep into SQL. I build in public and contribute to open source because real codebases teach what tutorials can't.
+### B.Tech CSE Student | Python • Web • Databases • Cloud
 
-## Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-vikash--kun-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7)](https://github.com/vikash-kun)
+
+---
+
+### 🚀 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Building with **Python**, **JavaScript**, **SQL** and the web
+- ☁️ Working with **AWS** and **Linux** environments
+- ⚡ I learn by building — most of what I know comes from shipping real projects
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=e0af68)
+![SQL](https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7dcfff)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=ff7a93)
+![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7aa2f7)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=7dcfff)
+![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-1a1b27?style=for-the-badge&logo=microsoftsqlserver&logoColor=bb9af7)
+
+**Tools & Environment**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-1a1b27?style=for-the-badge&logo=googlecolab&logoColor=f7768e)
+![Anaconda](https://img.shields.io/badge/Anaconda-1a1b27?style=for-the-badge&logo=anaconda&logoColor=9ece6a)
+![Linux](https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=e0af68)
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-1a1b27?style=for-the-badge&logo=gnubash&logoColor=c0caf5)
+![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e)
+![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)
+![AWS](https://img.shields.io/badge/AWS-1a1b27?style=for-the-badge&logo=amazonaws&logoColor=e0af68)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash-kun&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikash-kun&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-kun&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*Always learning, always building. Let's connect!*
 
 
