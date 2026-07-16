@@ -1,5 +1,29 @@
-# 💫 About Me:
-# Hi there, I'm Vikash<br><br>I'm a Computer Science student at **Bikaner Technical University** with a growing interest in **Artificial Intelligence, Data Science, and software development**. I'm currently learning **AI and Data Science through IIT Roorkee** while building projects to improve my skills.<br><br>I believe the best way to learn is by building. Every project helps me understand new concepts, improve my problem-solving skills, and become a better developer.<br><br>## Currently Learning<br><br>* Python<br>* SQL<br>* NumPy<br>* Artificial Intelligence<br>* Data Science<br>* Git & GitHub<br>* Linux<br><br>## Interests<br><br>* Exploring AI and its real-world applications<br>* Building projects to learn new technologies<br>* Reading books<br>* Learning new languages<br>* Photography<br>* Exploring the internet and discovering new ideas<br><br>**I build stuff.**<br>
+## **Yo there, I'm Vikash**
+
+I'm a Computer Science student at Bikaner Technical University with a growing interest in Artificial Intelligence, Data Science, and software development. I'm currently learning AI and Data Science through IIT Roorkee while building projects to improve my skills.
+
+I believe the best way to learn is by building. Every project helps me understand new concepts, improve my problem-solving skills, and become a better developer.
+
+## Currently Learning
+
+* Python
+* SQL
+* NumPy
+* Artificial Intelligence
+* Data Science
+* Git & GitHub
+* Linux
+
+## Interests
+
+* Exploring AI and its real-world applications
+* Building projects to learn new technologies
+* Reading books
+* Learning new languages
+* Photography
+* Exploring the internet and discovering new ideas
+
+
 
 
 ## 🌐 Socials:
