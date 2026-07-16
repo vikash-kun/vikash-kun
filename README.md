@@ -1,53 +1,18 @@
-# Yo 👋, I'm Vikash
-
-### B.Tech CSE Student | Python • Web • Databases • Cloud
-
-<a href="https://github.com/vikash-kun">
-  <img src="https://img.shields.io/badge/GitHub-vikash--kun-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" />
-</a>
-
----
-
-### 🚀 About Me
-
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Building with **Python**, **JavaScript**, **SQL** and the web
-- ☁️ Working with **AWS** and **Linux** environments
-- ⚡ I learn by building — most of what I know comes from shipping real projects
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=e0af68)
-![SQL](https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7dcfff)
-
-**Web**
-
-![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=ff7a93)
-![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7aa2f7)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=7dcfff)
-![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-1a1b27?style=for-the-badge&logo=microsoftsqlserver&logoColor=bb9af7)
-
-**Tools & Environment**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-1a1b27?style=for-the-badge&logo=googlecolab&logoColor=f7768e)
-![Anaconda](https://img.shields.io/badge/Anaconda-1a1b27?style=for-the-badge&logo=anaconda&logoColor=9ece6a)
-![Linux](https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=e0af68)
-![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-1a1b27?style=for-the-badge&logo=gnubash&logoColor=c0caf5)
-![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e)
-![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)
-![AWS](https://img.shields.io/badge/AWS-1a1b27?style=for-the-badge&logo=amazonaws&logoColor=e0af68)
-
----
+# 💫 About Me:
+# Hi there, I'm Vikash<br><br>I'm a Computer Science student at **Bikaner Technical University** with a growing interest in **Artificial Intelligence, Data Science, and software development**. I'm currently learning **AI and Data Science through IIT Roorkee** while building projects to improve my skills.<br><br>I believe the best way to learn is by building. Every project helps me understand new concepts, improve my problem-solving skills, and become a better developer.<br><br>## Currently Learning<br><br>* Python<br>* SQL<br>* NumPy<br>* Artificial Intelligence<br>* Data Science<br>* Git & GitHub<br>* Linux<br><br>## Interests<br><br>* Exploring AI and its real-world applications<br>* Building projects to learn new technologies<br>* Reading books<br>* Learning new languages<br>* Photography<br>* Exploring the internet and discovering new ideas<br><br>**I build stuff.**<br>
 
 
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vikash-1406b1383) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theycallmevikas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikashzkumar.01@gmail.com) 
 
-*Always learning, always building. Let's connect!*
+#  Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+#  GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vikash-kun&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=vikash-kun&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vikash-kun&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vikash-kun&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<i> I build stuff.<i>
